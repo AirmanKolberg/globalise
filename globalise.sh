@@ -1,5 +1,7 @@
 # This file is called "globalise" (no quotes or extension)
 # and is located in /usr/bin/
+# NOTE: "Documents/Coding/QuickScripts" is just my location
+# of choice, you can (and should) of course change this
 
 clear
 cd Documents/Coding/QuickScripts
